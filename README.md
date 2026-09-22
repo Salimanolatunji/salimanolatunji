@@ -2,11 +2,9 @@
 
 ### Applied Data Scientist | Researcher
 
-I have MSc in Applied Data Science and a bechelor degree in Pure and Applied Mathematics.
+I hold an MSc in Applied Data Science and a bachelor's degree in Pure and Applied Mathematics.  
 
-My work focuses on using statistical and computational methods to solve real-world problems from data acquisition and engineering through modeling, evaluation, and deployment.
-
-I am interested in building reproducible data-science systems and conducting research at the intersection of machine learning, statistical modeling, and decision science.
+My work focuses on applying statistical and computational methods to real-world problems across the full data-science lifecycle, from data acquisition and engineering to analysis, modeling, evaluation, and deployment.
 
 
 ### Research & Technical Interests
