@@ -2,7 +2,7 @@
 
 ### Applied Data Scientist | Researcher
 
-I hold an MSc in Applied Data Science and a bachelor's degree in Pure and Applied Mathematics.  
+I hold MSc in Applied Data Science and a bachelor's degree in Pure and Applied Mathematics.  
 
 My work focuses on applying statistical and computational methods to real-world problems across the full data-science lifecycle, from data acquisition and engineering to analysis, modeling, evaluation, and deployment.
 
