@@ -4,7 +4,7 @@
 
 I hold MSc in Applied Data Science and a bachelor's degree in Pure and Applied Mathematics.  
 
-My work focuses on applying statistical and computational methods to real-world problems across the full data-science lifecycle, from data acquisition and engineering to analysis, modeling, evaluation, and deployment.
+My work focuses on applying statistical and computational methods to real-world problems across the full data science lifecycle, from data acquisition and engineering to analysis, modeling, evaluation, and deployment.
 
 
 ### Research & Technical Interests
@@ -28,7 +28,6 @@ My work focuses on applying statistical and computational methods to real-world 
 - ETL pipelines
 - Data cleaning and validation
 - SQL databases
-- Structured, time-series, text, and network data
 
 ### Data Analysis
 - Exploratory Data Analysis
@@ -63,7 +62,7 @@ My work focuses on applying statistical and computational methods to real-world 
 
 ## Projects
 
-I am currently building a six-project full-stack data-science portfolio covering different data structures, modeling approaches, and deployment settings.
+I am currently building a six-project full-stack data science portfolio covering different data structures, modeling approaches, and deployment settings.
 
 ### 1. Statistical Learning
 **Nonlinear Drivers of Air Quality**
